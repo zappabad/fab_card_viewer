@@ -1,0 +1,5 @@
+{
+    "time_between_steps": 0.01,
+    "number_of_steps": 25,
+    "card_zoom_level": 1
+}
