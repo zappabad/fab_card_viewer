@@ -1,14 +1,4 @@
 # FAB Card Viewer
-
-## Table of Contents
-1. [Overview] (#overview)
-2. [Environment Setup for Python Dummies] (#environment-setup-for-python-dummies)
-3. [First Time Setup] (#first-time-setup)
-4. [Updating New Cards] (#updating-new-cards)
-5. [Contributing] (#contributing)
-
-
-
 ## Overview
 This is a simple card viewer for Flesh and Blood used to aid in video-editing and live production made in Python by Gabriel Singh Bruno (**Ssilhouette#3160** on Discord).
 
